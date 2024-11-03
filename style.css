@@ -8,3 +8,23 @@ img {
     margin: 20px auto;
     border-radius: 50%;
 }
+/* Existing styles... */
+
+/* Responsive Layout */
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 5px 0;
+    }
+
+    img {
+        width: 150px;
+    }
+
+    body {
+        margin: 10px;
+    }
+}
