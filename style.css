@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: rgba(33, 221, 90, 0.603);
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -30,7 +30,7 @@ img {
 }
 footer {
    
-    color: rgb(0, 201, 252);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px 0;
     position: fixed;
