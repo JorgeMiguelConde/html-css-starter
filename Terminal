@@ -1,3 +1,0 @@
-git add index.html styles.css
-git commit -m "Initial commit: Add index.html and styles.css"
-git push origin main
